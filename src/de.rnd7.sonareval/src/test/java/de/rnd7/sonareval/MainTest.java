@@ -12,4 +12,9 @@ class MainTest {
         Main.main(new String[]{});
     }
 
+    @Test
+    void test_another_without_assert() {
+        System.out.println("hi");
+    }
+
 }
