@@ -1,4 +1,4 @@
-package de.rnd7.huemqtt;
+package de.rnd7.sonareval;
 
 import org.junit.jupiter.api.Test;
 import org.junit.jupiter.api.extension.RegisterExtension;

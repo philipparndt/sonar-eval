@@ -1,4 +1,4 @@
-package de.rnd7.huemqtt;
+package de.rnd7.sonareval;
 
 
 public class Main {
